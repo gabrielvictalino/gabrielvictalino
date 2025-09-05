@@ -34,5 +34,6 @@
   💌 Entre em contato: ⤵️
 </p>
 
+![Gmail](https://img.shields.io/badge/gabrielvictalino@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielvictalino/)](https://www.linkedin.com/in/gabrielvictalino/)
 
